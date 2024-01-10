@@ -30,21 +30,11 @@ Implementation of ResNet50 model for image analysis.
 
 
 To run this notebook, you need to have Python installed along with libraries like Plotly, TensorFlow, and Keras.
+
+Use the following line to install necessary packages: 
+
 ```plaintext
-bash
-Copy code
 pip install plotly tensorflow keras
-Installation
 ```
 
-Clone the repository and install the required Python packages:
-
-```plaintext
-bash
-Copy code
-git clone [your-repo-url]
-cd [your-repo-directory]
-pip install -r requirements.txt
-Usage
-```
 
